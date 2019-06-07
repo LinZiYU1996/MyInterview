@@ -1,4 +1,4 @@
-package DesignPatterns.FactoryPattern.BuilderPattern;
+package DesignPatterns.BuilderPattern;
 
 /**
  * @Author: Mr.Lin
