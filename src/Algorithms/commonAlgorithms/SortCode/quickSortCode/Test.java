@@ -1,4 +1,4 @@
-package Algorithms.commonAlgorithms.SortCode;
+package Algorithms.commonAlgorithms.SortCode.quickSortCode;
 
 import java.util.Arrays;
 
